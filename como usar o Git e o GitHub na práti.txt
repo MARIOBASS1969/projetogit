@@ -1,0 +1,26 @@
+como usar o Git e o GitHub na prática_Rfaela_Baleerini
+
+no terminal git_bash
+git --version
+
+criar pasta -> projetoGit
+
+criado arquivo Readme.md
+
+o que é Readme. Leia-me.
+--------------------------------------------------------------------------------
+
+primeiros comandos:
+
+git init
+git add Readme.md, se colocar add. será commitado todos arquivos.
+git status - mostra os arquivos commitados
+git commit -m "primeiro commit", comenta as mudanças no arquivo.
+
+https://github.com/MARIOBASS1969/projetogit.git
+
+
+
+
+
+
